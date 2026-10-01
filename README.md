@@ -62,10 +62,12 @@
 This repository is a modified version of OnionHEN, originally developed by
 the upstream OnionHEN contributors.
 
+This fork contains modifications made by Chzy in 2026.
+
 Modifications in this repository are Copyright (C) 2026 Chzy.
 
 This project remains licensed under the GNU General Public License,
-version 3 or later, in accordance with the upstream project's license.
+version 3 or later.
 
 # Features
 
